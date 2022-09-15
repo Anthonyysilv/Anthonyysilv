@@ -8,3 +8,5 @@
 Anthonyysilv is ✨ special ✨.
 and very good at english (ok not so good)
 --->
+slide do mini-curso Flutter
+https://docs.google.com/presentation/d/1TWNulDpFQlAKvt5Q3LKW6i6Os_wdqOMfQcMVbKHWMr8/edit?usp=sharing
