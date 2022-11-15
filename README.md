@@ -4,13 +4,12 @@ Criei esse perfil github para publicar e salvar as atividades feitas em sala.
 
 Atualmente, estou aprendendo e utilizando das linguagens:
 
-<img src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw" width="40" height="40"/> <img src="https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo" width="40" height="40"/> <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCFmj9qg68AFAx8H7Xo5x20h4Ozi3ug1gXUdKqKnSBUfMdXuOKxMCpV4nsVecAwPNjwPs&usqp=CAU" width="40" height="40"/>
+<img src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw" width="40" height="40"/> <img src="https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo" width="40" height="40"/><img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="40" height="40"/> <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCFmj9qg68AFAx8H7Xo5x20h4Ozi3ug1gXUdKqKnSBUfMdXuOKxMCpV4nsVecAwPNjwPs&usqp=CAU" width="40" height="40"/>
 <div>
 <a href="https://github.com/Anthonyysilv">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthonyysilv&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anthonyysilv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
  
 ![Snake animation](https://github.com/Anthonyysilv/Anthonyysilv/blob/output/github-contribution-grid-snake.svg)
 
