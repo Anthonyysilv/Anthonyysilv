@@ -1,6 +1,20 @@
-Olá, meu nome é Anthony sou aluno do curso técnico de informática integrado ao ensino médio.
+## GitHub Bio: IFSP - Campus Birigui Student | Programming Enthusiast
 
-Criei esse perfil github para publicar e salvar as atividades feitas em sala.
+👋 Hello, fellow GitHub users! Welcome to my profile! 
+
+🎓 I am a second-year student at the Federal Institute of São Paulo (IFSP), specifically at the Birigui campus. My main focus of study and exploration lies in the vast world of programming.
+
+💻 I am currently engaged in honing my programming skills and expanding my knowledge in various programming languages, including but not limited to Python, Java, and C++. As I progress through my academic journey, I am continuously exploring different fields within computer science to discover my true passion.
+
+📚 In addition to my formal education, I also dedicate myself to self-learning through online resources, coding challenges, and personal projects. I believe that hands-on experience and practical implementation are essential for solidifying theoretical concepts.
+
+🌱 As an aspiring developer, I am fascinated by the ever-evolving nature of technology and the boundless possibilities it offers. I am particularly interested in web development, software engineering, and data science. I am eager to leverage my skills to contribute to exciting projects and collaborate with like-minded individuals.
+
+🤝 I am open to collaborations, mentorship opportunities, and constructive feedback. I believe in the power of community and the strength that comes from sharing knowledge and ideas. Let's connect and learn together!
+
+📫 Feel free to reach out to me via email or social media platforms. I would be delighted to connect with fellow programmers, developers, and tech enthusiasts!
+
+🌟 Thank you for visiting my GitHub profile. Stay tuned for my projects and repositories as I continue my coding journey towards becoming a proficient programmer!
 
 Atualmente, estou aprendendo e utilizando das linguagens:
 
