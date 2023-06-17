@@ -8,7 +8,7 @@
 
 📚 In addition to my formal education, I also dedicate myself to self-learning through online resources, coding challenges, and personal projects. I believe that hands-on experience and practical implementation are essential for solidifying theoretical concepts.
 
-🌱 As an aspiring developer, I am fascinated by the ever-evolving nature of technology and the boundless possibilities it offers. I am particularly interested in web development, software engineering, and data science. I am eager to leverage my skills to contribute to exciting projects and collaborate with like-minded individuals.
+🌱 As an aspiring developer, I am fascinated by the ever-evolving nature of technology and the boundless possibilities it offers. I am particularly interested in web development. I am eager to leverage my skills to contribute to exciting projects and collaborate with like-minded individuals.
 
 🤝 I am open to collaborations, mentorship opportunities, and constructive feedback. I believe in the power of community and the strength that comes from sharing knowledge and ideas. Let's connect and learn together!
 
