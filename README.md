@@ -10,8 +10,6 @@
 
 🌱 As an aspiring developer, I am fascinated by the ever-evolving nature of technology and the boundless possibilities it offers. I am particularly interested in web development. I am eager to leverage my skills to contribute to exciting projects and collaborate with like-minded individuals.
 
-🤝 I am open to collaborations, mentorship opportunities, and constructive feedback. I believe in the power of community and the strength that comes from sharing knowledge and ideas. Let's connect and learn together!
-
 📫 Feel free to reach out to me via email or social media platforms. I would be delighted to connect with fellow programmers, developers, and tech enthusiasts!
 
 🌟 Thank you for visiting my GitHub profile. Stay tuned for my projects and repositories as I continue my coding journey towards becoming a proficient programmer!
