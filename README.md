@@ -15,12 +15,12 @@
 🌱 As an aspiring developer, I am fascinated by the ever-evolving nature of technology and the boundless possibilities it offers. I am particularly interested in web development. I am eager to leverage my skills to contribute to exciting projects and collaborate with like-minded individuals.
 
 📫 Feel free to reach out to me via email or social media platforms. I would be delighted to connect with fellow programmers, developers, and tech enthusiasts!
+---
 
-<div>
-<a href="https://github.com/Anthonyysilv">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthonyysilv&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anthonyysilv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anthonyysilv&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthonyysilv&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/Anthonyysilv/Anthonyysilv/blob/output/github-contribution-grid-snake.svg)
 
  slide do mini-curso Flutter
 https://docs.google.com/presentation/d/1TWNulDpFQlAKvt5Q3LKW6i6Os_wdqOMfQcMVbKHWMr8/edit?usp=sharing
