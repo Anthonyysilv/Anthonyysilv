@@ -12,8 +12,6 @@
 
 📫 Feel free to reach out to me via email or social media platforms. I would be delighted to connect with fellow programmers, developers, and tech enthusiasts!
 
-🌟 Thank you for visiting my GitHub profile. Stay tuned for my projects and repositories as I continue my coding journey towards becoming a proficient programmer!
-
 <div>
 <a href="https://github.com/Anthonyysilv">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthonyysilv&layout=compact&langs_count=7&theme=dracula"/>
