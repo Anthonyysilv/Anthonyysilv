@@ -1,5 +1,9 @@
 ## GitHub Bio: IFSP - Campus Birigui Student | Programming Enthusiast
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+</div>
+
 👋 Hello, fellow GitHub users! Welcome to my profile! 
 
 🎓 I am a second-year student at the Federal Institute of São Paulo (IFSP), specifically at the Birigui campus. My main focus of study and exploration lies in the vast world of programming.
