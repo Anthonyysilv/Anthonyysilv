@@ -18,7 +18,7 @@
 ---
 
 ### :fire: My Stats :
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anthonyysilv&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anthonyysilv&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthonyysilv&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
  slide do mini-curso Flutter
