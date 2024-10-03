@@ -6,7 +6,7 @@
 
 👋 Hello, fellow GitHub users! Welcome to my profile! 
 
-🎓 I am a third-year student at the Federal Institute of São Paulo (IFSP), specifically at the Birigui campus. My main focus of study and exploration lies in the vast world of programming.
+🎓 I am a third-year student at the Instituto Federal de São Paulo (IFSP), specifically at the Birigui campus. My main focus of study and exploration lies in the vast world of programming.
 
 💻 I am currently engaged in honing my programming skills and expanding my knowledge in various programming languages, including but not limited to Python, Java, and C++. As I progress through my academic journey, I am continuously exploring different fields within computer science to discover my true passion.
 
