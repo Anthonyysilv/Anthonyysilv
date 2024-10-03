@@ -8,7 +8,7 @@
 
 🎓 I am a third-year student at the Instituto Federal de São Paulo (IFSP), specifically at the Birigui campus. My main focus of study and exploration lies in the vast world of programming.
 
-💻 I am currently engaged in honing my programming skills and expanding my knowledge in various programming languages, including but not limited to Python, Java, and C++. As I progress through my academic journey, I am continuously exploring different fields within computer science to discover my true passion.
+💻 I am currently engaged in honing my programming skills and expanding my knowledge in various programming languages, including but not limited to C#, C++, C, PHP, CSS and JavaScript. As I progress through my academic journey, I am continuously exploring different fields within computer science to discover my true passion.
 
 📚 In addition to my formal education, I also dedicate myself to self-learning through online resources, coding challenges, and personal projects. I believe that hands-on experience and practical implementation are essential for solidifying theoretical concepts.
 
